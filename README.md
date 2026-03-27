@@ -39,7 +39,7 @@ Drafted professional communications for common academic and career scenarios, an
 ### Module 5: Cybercrime Awareness & Prevention
 Researched the mechanics of UPI Payment Fraud via fake customer care numbers and created an actionable safety checklist tailored for college students.
 * **Deliverables:**
-  * [View UPI Fraud Case Study](task-5-cybercrime/casestudy.md)
+  * [View UPI Fraud Case Study](task-5-cybercrime/casestudy.pdf)
   * * [View Online Safety Checklist](task-5-cybercrime/prevention-checklist.md)
 
 
